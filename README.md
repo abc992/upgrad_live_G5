@@ -3,3 +3,6 @@ This is a sample project for C5 Batch
 
 # Details
 This is a hello world project in github
+
+# Features
+1. Summation
